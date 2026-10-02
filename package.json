@@ -1,0 +1,19 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "Amazon storefront web clone with carousel sliders, deals module, and responsive layout",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 8000",
+    "dev": "npx serve . -l 8000"
+  },
+  "keywords": [
+    "amazon-clone",
+    "ecommerce",
+    "javascript",
+    "html-css",
+    "frontend"
+  ],
+  "author": "Abhijeet Mahakur",
+  "license": "MIT"
+}
